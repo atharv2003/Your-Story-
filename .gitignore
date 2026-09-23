@@ -1,0 +1,6 @@
+.env
+node_modules/
+*.log
+.sites-runtime/
+.sites-cache/
+coverage/
